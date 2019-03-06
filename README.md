@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -23,6 +22,4 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-=======
 # my_first_rails_app
->>>>>>> 095b887048a29a930aad79e807938b3021a533b0
